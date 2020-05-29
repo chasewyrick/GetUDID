@@ -12,5 +12,4 @@ if( file_exists($name_file) ) {
 }else{
 	echo "File Not Found.";
 	die;
-} 
-?> 
+}  
